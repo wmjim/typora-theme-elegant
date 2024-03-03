@@ -4,7 +4,7 @@
 
 文本字体使用[霞鹜文楷](https://github.com/lxgw/LxgwWenKai)，代码字体使用 [FiraCode](https://github.com/tonsky/FiraCode) ，并同时进行了一些 `md` 元素的修改。
 
-如果您喜欢这个主题，请点击 `stra` ，感谢您的关注！ 
+如果您喜欢这个主题，请点击 `Star` ，感谢您的关注！ 
 
 ## 主题效果展示
 
