@@ -12,9 +12,9 @@
 
 ## 主题效果展示
 
-![image-20240303180826990](F:\个人项目\typora-theme-elegant\images\image-20240303180826990.png)
+![image-20240303180826990](./images/image-20240303180826990.png)
 
-![image-20240303180629916](.\images\image-20240303180629916.png)
+![image-20240303180629916](./images/image-20240303180629916.png)
 
 ## 主题更新
 
